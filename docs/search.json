@@ -25,6 +25,13 @@
     "href": "test.html",
     "title": "STAT 244-SC",
     "section": "",
-    "text": "Hello!"
+    "text": "Our project explores the relationships between foreign-born population, educational attainment, and voting rates for Trump. We applied techniques such as cross-validation and K-means clustering. The following images show some of the visualizations:"
+  },
+  {
+    "objectID": "STAT 244-SC.html",
+    "href": "STAT 244-SC.html",
+    "title": "STAT 244-SC",
+    "section": "",
+    "text": "Our project explores the relationships between foreign-born population, educational attainment, and voting rates for Trump. We applied techniques such as cross-validation and K-means clustering. The following images show some of the visualizations:"
   }
 ]

@@ -10,7 +10,7 @@ website:
         text: Home
       - about.qmd
       - href: test.qmd
-        text: Test
+        text: STAT 244-SC
 
 format:
   html:
