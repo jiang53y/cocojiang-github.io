@@ -19,5 +19,12 @@
     "title": "About",
     "section": "",
     "text": "You can view my personal website here"
+  },
+  {
+    "objectID": "test.html",
+    "href": "test.html",
+    "title": "STAT 244-SC",
+    "section": "",
+    "text": "Hello!"
   }
 ]
