@@ -9,6 +9,5 @@ Hi, my name is Coco, and I am a senior at Mount Holyoke College. I am interested
 You can view my [personal website here](https://sites.google.com/mtholyoke.edu/coco-jiang/homepage?authuser=0&pli=1)
 
 ```{r}
-
-
+1 + 1
 ```
