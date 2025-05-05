@@ -5,6 +5,4 @@ title: "STAT 244-SC"
 Our project explores the relationships between foreign-born population, educational attainment, and voting rates for Trump. We applied techniques such as cross-validation and K-means clustering. The following images show some of the visualizations:
 
 ![K-means (K=3)](images/plot1.png)
-file.copy("images/plot1.png", "docs/images/plot1.png", overwrite = TRUE)
-file.copy("images/plot2.png", "docs/images/plot2.png", overwrite = TRUE)
 
